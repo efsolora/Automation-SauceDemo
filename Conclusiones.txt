@@ -1,0 +1,9 @@
+﻿Después de automatizar la página https://www.saucedemo.com/, estas son mis conclusiones:
+
+
+* Se logró completar con éxito el flujo de compra, siguiendo los pasos establecidos en las instrucciones del ejercicio.
+* Se emplearon las credenciales proporcionadas para autenticarse como usuario estándar.
+* Se verificó la capacidad de agregar productos al carrito y visualizar su contenido.
+* El formulario de compra se completó satisfactoriamente, incluida la selección de productos y el ingreso de la información de envío. Sin embargo, se observó que el formulario carece de validación de tipos de datos, lo que implica que se pueden ingresar cualquier tipo de dato.
+* Se corroboró que solo se puede agregar una unidad por producto al carrito.
+* Se evidenció que ninguno de los filtros funciona correctamente.
